@@ -10,7 +10,7 @@ public class Stockfish
     private BufferedReader reader;
     private OutputStreamWriter writer;
 
-    private static String PATH = "\"C:\\Users\\tomsa\\git\\tom\\seminar_chess\\src\\stockfish\\stockfish-windows-x86-64-avx2.exe\"";
+    private static String PATH = "C:\\Users\\tom\\Desktop\\seminarska\\src\\stockfish\\stockfish-windows-x86-64-avx2";
 
 
     public void startProcess() {
